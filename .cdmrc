@@ -1,0 +1,2 @@
+tabs: ['index.html','style.css']
+terminal-one: static-server -p $PUBLIC_PORT --no-cache
